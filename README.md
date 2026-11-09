@@ -90,3 +90,7 @@ The serial link runs at 1,000,000 baud. The Nano writes each good frame to the O
 | `OledStream/OledStream.ino` | The Arduino Nano sketch |
 | `OLED Video Player.bat` | Windows launcher |
 | `requirements.txt` | Python packages |
+
+## License
+
+[MIT](LICENSE). You're free to use, change, and share this project.
